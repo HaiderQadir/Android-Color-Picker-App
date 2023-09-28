@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+
+    <string name="jsooon">
+[
+ {
+    "name": "Zinnwaldite Brown",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]</string>
+</resources>
